@@ -32,7 +32,10 @@ jobs:
         env:
           OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
       - name: Commit Changes
-        run: git commit -m "updated profile" -a
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "updated profile" -a
       - name: Push to GitHub
         uses: ad-m/github-push-action@master
         with:
