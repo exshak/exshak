@@ -30,7 +30,7 @@ jobs:
       - name: Generate README
         run: node index.js
         env:
-          open_weather_key: ${{ secrets.OPEN_WEATHER_KEY }}
+          OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
       - name: Commit Changes
         run: git commit -m "updated profile" -a
       - name: Push to GitHub
