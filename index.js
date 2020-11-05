@@ -11,6 +11,7 @@ const view = {
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
+    timeZone: 'America/Toronto',
   }),
 }
 
@@ -22,7 +23,11 @@ async function getWeatherInfo() {
   view.city_temp = Math.round(data.main.temp)
   view.city_weather = data.weather[0].description
   view.city_weather_icon = data.weather[0].icon
-  const options = { hour: 'numeric', minute: '2-digit' }
+  const options = {
+    hour: 'numeric',
+    minute: '2-digit',
+    timeZone: 'America/Toronto',
+  }
   view.city_sunrise = new Date(data.sys.sunrise * 1000).toLocaleTimeString(
     'en-US',
     options
