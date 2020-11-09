@@ -57,12 +57,13 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 
 <img src="https://github.com/exshak/exshak/raw/master/.github/coffee.png" align="right" height="200" />
 
-<img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124193488_278527160211885_7646733018144947037_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;0-7bQRrfdBYAX-lKFtR&amp;_nc_tp&#x3D;24&amp;oh&#x3D;fb66c96e259b1af005c3141245e0fcb3&amp;oe&#x3D;5FD3D2F1" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124220329_1508703035991102_2945547647191576058_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;v5rhBjqEtH8AX8CTFiD&amp;_nc_tp&#x3D;24&amp;oh&#x3D;a09eeae9fdff84004dd565623cef56b2&amp;oe&#x3D;5FD4FDB6" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;123724811_179421637184960_6862550956194135145_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;fhp1fTt0p78AX9nbRDG&amp;_nc_tp&#x3D;24&amp;oh&#x3D;0d2db2d739248327e77ed94b10f43cb9&amp;oe&#x3D;5FD4CE42" height="200" width="200" />
+<img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124193488_278527160211885_7646733018144947037_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;0-7bQRrfdBYAX9myB7V&amp;_nc_tp&#x3D;24&amp;oh&#x3D;a2b1bfcda59adc5fbba8d56fa6d922b1&amp;oe&#x3D;5FD3D2F1" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124220329_1508703035991102_2945547647191576058_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;v5rhBjqEtH8AX_eaOiC&amp;_nc_tp&#x3D;24&amp;oh&#x3D;f575087ff1ba44dc27b46d8a3e8962c3&amp;oe&#x3D;5FD4FDB6" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;123724811_179421637184960_6862550956194135145_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;fhp1fTt0p78AX96ARUB&amp;_nc_tp&#x3D;24&amp;oh&#x3D;ac057e2732132acf5ed00c6ad71bf24f&amp;oe&#x3D;5FD4CE42" height="200" width="200" />
 
 [<img src="https://buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" />](https://buymeacoffee.com/exshak)
-Currently, the weather is [<img src="http://openweathermap.org/img/wn/01d.png" height="30" valign="bottom" />](https://openweathermap.org/city/6167865) <b>18°C</b> with <b><i>clear sky</i></b>.\
+
+Currently, it's [<img src="http://openweathermap.org/img/wn/01d.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>18°C</b> with <b><i>clear sky</i></b>.
 Today, the sun rises at <b>7:04 AM</b> and sets at <b>4:58 PM</b>.\
-Last refresh: Monday, November 9, 2:36 PM
+Last refresh: Monday, November 9, 3:56 PM
 
 ![Build](https://github.com/exshak/exshak/workflows/build/badge.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=exshak.exshak)
