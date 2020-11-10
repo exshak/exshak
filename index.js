@@ -5,7 +5,7 @@ const fetch = require('node-fetch')
 const fs = require('fs')
 
 const view = {
-  refresh_date: encodeURI(getTime()),
+  update_time: encodeURI(getTime()),
 }
 
 function getTime(time = Date.now()) {
