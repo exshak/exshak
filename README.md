@@ -12,8 +12,9 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 
 - 📚 I'm currently exploring Computer Vision and Neural Interfaces
 - 👫 I'm looking to collaborate on AI, Blockchain & Fintech projects
-- 🤖 I'm making new modal editing experiences at a stealth startup
 - 📬 How to reach me: Use any of the [badges](#hi-there-im-shak-) above or open [issue](https://github.com/exshak/exshak/issues)
+- 🤖 Listening to 👇🏻 checkout my [blog](https://exshak.com) or my [dotfiles](https://github.com/exshak/dotfiles) for  and [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png" height="12" />]()
+[<img src="https://spotify-playing.exshak.vercel.app/now-playing" />](https://spotify-playing.exshak.vercel.app/now-playing?open)
 - 🌸 重い負担... 盗む価値がなく、持ち運びが難しい。[北海道、日本](https://google.com/maps/place/Hokkaido,+Japan)
 
 ### Languages & Tools
@@ -57,10 +58,10 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 
 <img src="https://github.com/exshak/exshak/raw/master/.github/coffee.png" align="right" height="200" />
 
-<img src="https:&#x2F;&#x2F;scontent-iad3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124193488_278527160211885_7646733018144947037_n.jpg?_nc_ht&#x3D;scontent-iad3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;0-7bQRrfdBYAX94fxxj&amp;_nc_tp&#x3D;24&amp;oh&#x3D;63810b6090ede4bd08d7be07ed807a05&amp;oe&#x3D;5FD3D2F1" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-iad3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124220329_1508703035991102_2945547647191576058_n.jpg?_nc_ht&#x3D;scontent-iad3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;v5rhBjqEtH8AX_Sywa0&amp;_nc_tp&#x3D;24&amp;oh&#x3D;70b9d40809dc6f515729b1d829378773&amp;oe&#x3D;5FD4FDB6" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-iad3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;123724811_179421637184960_6862550956194135145_n.jpg?_nc_ht&#x3D;scontent-iad3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;fhp1fTt0p78AX8f_Tiz&amp;_nc_tp&#x3D;24&amp;oh&#x3D;20467dcf9d446b286bc5f37576ee7af0&amp;oe&#x3D;5FD4CE42" height="200" width="200" />
+<img src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124193488_278527160211885_7646733018144947037_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;0-7bQRrfdBYAX8xg8mw&amp;_nc_tp&#x3D;24&amp;oh&#x3D;ac270e0834e57f50fc2d7698f5f18a3f&amp;oe&#x3D;5FD3D2F1" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;124220329_1508703035991102_2945547647191576058_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;v5rhBjqEtH8AX_xoWsM&amp;_nc_tp&#x3D;24&amp;oh&#x3D;ef87773f701b13ab6e2648bef10452e8&amp;oe&#x3D;5FD4FDB6" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;123724811_179421637184960_6862550956194135145_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;fhp1fTt0p78AX8NcDEk&amp;_nc_tp&#x3D;24&amp;oh&#x3D;2b263ef72d5d1816f90756529bf0dc32&amp;oe&#x3D;5FD4CE42" height="200" width="200" />
 [<img src="https://buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" />](https://buymeacoffee.com/exshak)\
-Currently, it's [<img src="http://openweathermap.org/img/wn/04d.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>12°C</b> with <b><i>broken clouds</i></b>. Today, the sun rises at <b>7:06 AM</b> and sets at <b>4:57 PM</b>.
+Currently, it's [<img src="http://openweathermap.org/img/wn/04d.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>15°C</b> with <b><i>broken clouds</i></b>. Today, the sun rises at <b>7:06 AM</b> and sets at <b>4:57 PM</b>.
 
 ![Build](https://github.com/exshak/exshak/workflows/build/badge.svg)
-![Updated](https://img.shields.io/badge/updated-7:52%20AM-00add8.svg)
+![Updated](https://img.shields.io/badge/updated-10:05%20AM-00add8.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=exshak.exshak)
