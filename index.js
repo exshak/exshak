@@ -5,14 +5,15 @@ const fetch = require('node-fetch')
 const fs = require('fs')
 
 const view = {
-  refresh_date: new Date().toLocaleDateString('en-US', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
+  refresh_date: encodeURI(getTime()),
+}
+
+function getTime(time = Date.now()) {
+  return new Date(time).toLocaleTimeString('en-US', {
     hour: 'numeric',
     minute: 'numeric',
     timeZone: 'America/Toronto',
-  }),
+  })
 }
 
 async function getWeatherInfo() {
@@ -23,19 +24,8 @@ async function getWeatherInfo() {
   view.city_temp = Math.round(data.main.temp)
   view.city_weather = data.weather[0].description
   view.city_weather_icon = data.weather[0].icon
-  const options = {
-    hour: 'numeric',
-    minute: '2-digit',
-    timeZone: 'America/Toronto',
-  }
-  view.city_sunrise = new Date(data.sys.sunrise * 1000).toLocaleTimeString(
-    'en-US',
-    options
-  )
-  view.city_sunset = new Date(data.sys.sunset * 1000).toLocaleTimeString(
-    'en-US',
-    options
-  )
+  view.city_sunrise = getTime(data.sys.sunrise * 1000)
+  view.city_sunset = getTime(data.sys.sunset * 1000)
 }
 
 async function getInstagramPosts() {
