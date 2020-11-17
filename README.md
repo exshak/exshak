@@ -58,10 +58,10 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 
 <img src="https://github.com/exshak/exshak/raw/master/.github/coffee.png" align="right" height="200" />
 
-<img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;125532043_123053589589159_1703779746566405260_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;5PAiUjizO9MAX8GIlV7&amp;_nc_tp&#x3D;24&amp;oh&#x3D;cb65a591eaba020a0fe5ebaca2bbe3b4&amp;oe&#x3D;5FDCFFBC" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;125187335_1420750734930469_9087735578933811679_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;5EuydIT2xEgAX-YS5k_&amp;_nc_tp&#x3D;24&amp;oh&#x3D;a13952510119f52101fd727ada93e04f&amp;oe&#x3D;5FDCFEAF" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;125460913_807398889836583_5180975777082363396_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;103&amp;_nc_ohc&#x3D;SuBgqptvh2IAX_0rFcU&amp;_nc_tp&#x3D;24&amp;oh&#x3D;53e8bdc9133b7c247562b3f186674d19&amp;oe&#x3D;5FDCEF6D" height="200" width="200" />
+<img src="" height="200" width="200" /> <img src="" height="200" width="200" /> <img src="" height="200" width="200" />
 [<img src="https://buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" />](https://buymeacoffee.com/exshak)\
-Currently, it's [<img src="http://openweathermap.org/img/wn/04d.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>4°C</b> with <b><i>broken clouds</i></b>. Today, the sun rises at <b>7:13 AM</b> and sets at <b>4:51 PM</b>.
+Currently, it's [<img src="http://openweathermap.org/img/wn/04n.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>4°C</b> with <b><i>overcast clouds</i></b>. Today, the sun rises at <b>7:13 AM</b> and sets at <b>4:51 PM</b>.
 
 ![Build](https://github.com/exshak/exshak/workflows/build/badge.svg)
-![Updated](https://img.shields.io/badge/updated-1:13%20PM-00add8.svg)
+![Updated](https://img.shields.io/badge/updated-7:36%20PM-00add8.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=exshak.exshak)
