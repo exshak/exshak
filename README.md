@@ -60,8 +60,8 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 
 <img src="" height="200" width="200" /> <img src="" height="200" width="200" /> <img src="" height="200" width="200" />
 [<img src="https://buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" />](https://buymeacoffee.com/exshak)\
-Currently, it's [<img src="http://openweathermap.org/img/wn/03d.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>1°C</b> with <b><i>scattered clouds</i></b>. Today, the sun rises at <b>7:15 AM</b> and sets at <b>4:50 PM</b>.
+Currently, it's [<img src="http://openweathermap.org/img/wn/02n.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>-1°C</b> with <b><i>few clouds</i></b>. Today, the sun rises at <b>7:15 AM</b> and sets at <b>4:50 PM</b>.
 
 ![Build](https://github.com/exshak/exshak/workflows/build/badge.svg)
-![Updated](https://img.shields.io/badge/updated-1:13%20PM-00add8.svg)
+![Updated](https://img.shields.io/badge/updated-7:37%20PM-00add8.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=exshak.exshak)
