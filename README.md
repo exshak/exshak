@@ -60,9 +60,9 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 
 <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;128847799_778119723047069_7687537695329733320_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;dGk600N4Gg4AX-DJBbZ&amp;se&#x3D;7&amp;tp&#x3D;1&amp;oh&#x3D;e207d1750e3bd7b26a102f006c93aab9&amp;oe&#x3D;5FF19D36&amp;ig_cache_key&#x3D;MjQ1NTQzNDg0MDE0NjE0MzIxMw%3D%3D.2" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;128554191_160757539108927_5707244593497063012_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;nfh5IShh_sYAX_ZkIpU&amp;se&#x3D;7&amp;tp&#x3D;1&amp;oh&#x3D;2a57b2cf872a69ffb5de62ad9be32163&amp;oe&#x3D;5FF1643F&amp;ig_cache_key&#x3D;MjQ1NDcxMTIzMjEwOTAzNDAzNg%3D%3D.2" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;128912864_379255590045112_7783658414361902363_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;L0ED31f5k98AX8PyMVE&amp;se&#x3D;7&amp;tp&#x3D;1&amp;oh&#x3D;ed6009196489b9c17893f67fffd37e26&amp;oe&#x3D;5FF1C759&amp;ig_cache_key&#x3D;MjQ1Mzk2Nzk2MTE4MzMwNDYwNQ%3D%3D.2" height="200" width="200" />
 [<img src="https://buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" />](https://buymeacoffee.com/exshak)\
-Currently, it's [<img src="http://openweathermap.org/img/wn/02n.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>3°C</b> with <b><i>few clouds</i></b>. It feels like <b>-1°C</b>.\
-Today, the sun rises at <b>7:35 AM</b> and sets at <b>4:41 PM</b>.
+Currently, it's [<img src="http://openweathermap.org/img/wn/02n.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>1°C</b> with <b><i>few clouds</i></b>. It feels like <b>-3°C</b>.\
+Today, the sun rises at <b>7:36 AM</b> and sets at <b>4:41 PM</b>.
 
 ![Build](https://github.com/exshak/exshak/workflows/build/badge.svg)
-![Updated](https://img.shields.io/badge/updated-7:42%20PM-00add8.svg)
+![Updated](https://img.shields.io/badge/updated-1:17%20AM-00add8.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=exshak.exshak)
