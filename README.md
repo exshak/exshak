@@ -61,8 +61,8 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 <img src="https:&#x2F;&#x2F;scontent-arn2-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;133695675_112093827367094_855222356272771492_n.jpg?_nc_ht&#x3D;scontent-arn2-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;hUDai3sy6YQAX_cQhM2&amp;tp&#x3D;1&amp;oh&#x3D;0bde5ecd0e25508bdb0b93bcf9f691ba&amp;oe&#x3D;6014DD9E" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-arn2-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;133675197_112955374011298_8747771136423762248_n.jpg?_nc_ht&#x3D;scontent-arn2-1.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;P_UPHSMCgUsAX886jN9&amp;tp&#x3D;1&amp;oh&#x3D;954b58d27bd9e4fa83d75e5d121e3948&amp;oe&#x3D;601732F8" height="200" width="200" /> <img src="https:&#x2F;&#x2F;scontent-arn2-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;132857139_1713190215508763_7724722758973817456_n.jpg?_nc_ht&#x3D;scontent-arn2-1.cdninstagram.com&amp;_nc_cat&#x3D;111&amp;_nc_ohc&#x3D;lh5a4R7kQFAAX_8bX6p&amp;tp&#x3D;1&amp;oh&#x3D;46fdfdbd8db81f52230d0e2c0686eed9&amp;oe&#x3D;60140071" height="200" width="200" />
 [<img src="https://buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" />](https://buymeacoffee.com/exshak)\
 Currently, it's [<img src="http://openweathermap.org/img/wn/04n.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>-3°C</b> with <b><i>overcast clouds</i></b>. It feels like <b>-8°C</b>.\
-Today, the sun rises at <b>7:51 AM</b> and sets at <b>4:48 PM</b>.
+Today, the sun rises at <b>7:51 AM</b> and sets at <b>4:49 PM</b>.
 
 ![Build](https://github.com/exshak/exshak/workflows/build/badge.svg)
-![Updated](https://img.shields.io/badge/updated-7:57%20PM-00add8.svg)
+![Updated](https://img.shields.io/badge/updated-1:24%20AM-00add8.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=exshak.exshak)
