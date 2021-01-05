@@ -61,8 +61,8 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 <img src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;134766381_3636483489775623_946806073111925431_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;HR5QMWltLlgAX_WbReQ&amp;tp&#x3D;1&amp;oh&#x3D;4506856cf570990cc68db191e411723f&amp;oe&#x3D;601C73DF" height="200" width="200" /> <img src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;134489855_443544799991033_4286494335772310529_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;oe1qtslOeysAX9faAzn&amp;tp&#x3D;1&amp;oh&#x3D;efab161f3bd75de872d34b41500250ad&amp;oe&#x3D;601E1CF7" height="200" width="200" /> <img src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;135389289_384886935942297_5964740209796045851_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;EKe98uE58W0AX-Fh0N6&amp;tp&#x3D;1&amp;oh&#x3D;93aed3b7ac973d94302e48b38704a6fd&amp;oe&#x3D;601CA326" height="200" width="200" />
 [<img src="https://buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" />](https://buymeacoffee.com/exshak)\
 Currently, it's [<img src="http://openweathermap.org/img/wn/04n.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>1°C</b> with <b><i>overcast clouds</i></b>. It feels like <b>-2°C</b>.\
-Today, the sun rises at <b>7:51 AM</b> and sets at <b>4:53 PM</b>.
+Today, the sun rises at <b>7:51 AM</b> and sets at <b>4:54 PM</b>.
 
 ![Build](https://github.com/exshak/exshak/workflows/build/badge.svg)
-![Updated](https://img.shields.io/badge/updated-8:01%20PM-00add8.svg)
+![Updated](https://img.shields.io/badge/updated-1:27%20AM-00add8.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=exshak.exshak)
