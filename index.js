@@ -35,6 +35,7 @@ async function getInstagramPosts() {
     const browser = await puppeteer.launch()
     const page = await browser.newPage()
     await page.goto(`https://picuki.com/profile/${account}`)
+    await page.waitForTimeout(1000)
     const pics = await page.evaluate(() => {
       const images = document.querySelectorAll('.post-image')
       return [].map.call(images, (img) => img.src)
