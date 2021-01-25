@@ -60,9 +60,9 @@ I'm a fullstack software developer & engineer from :canada: <b>Toronto, Canada</
 
 <img src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;141128902_444300686753395_8582667968907056654_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;yFAz7IjbdbsAX_j3mBv&amp;tp&#x3D;1&amp;oh&#x3D;3acc06b709da2265c0fe1af59416eb16&amp;oe&#x3D;6036E895" height="200" width="200" /> <img src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.156.1248.1248a&#x2F;s640x640&#x2F;141768873_438597244164703_427762418532938326_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;eoy6fgL4LcAAX9iVJXC&amp;tp&#x3D;1&amp;oh&#x3D;e6b2cd2db8506e446a63dcfd1ad682f5&amp;oe&#x3D;60367A2B" height="200" width="200" /> <img src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.169.1349.1349a&#x2F;s640x640&#x2F;140380126_831007487745560_4615282832022799977_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;oJ3fRgNOproAX_jkn_7&amp;tp&#x3D;1&amp;oh&#x3D;291a8bfbcc4ddff31879e2ebe5431762&amp;oe&#x3D;6037E905" height="200" width="200" />
 [<img src="https://buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" />](https://buymeacoffee.com/exshak)\
-Currently, it's [<img src="http://openweathermap.org/img/wn/04d.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>-2°C</b> with <b><i>broken clouds</i></b>. It feels like <b>-6°C</b>.\
+Currently, it's [<img src="http://openweathermap.org/img/wn/04d.png" height="20" valign="bottom" />](https://openweathermap.org/city/6167865) <b>1°C</b> with <b><i>overcast clouds</i></b>. It feels like <b>-2°C</b>.\
 Today, the sun rises at <b>7:41 AM</b> and sets at <b>5:18 PM</b>.
 
 ![Build](https://github.com/exshak/exshak/workflows/build/badge.svg)
-![Updated](https://img.shields.io/badge/updated-7:47%20AM-00add8.svg)
+![Updated](https://img.shields.io/badge/updated-1:54%20PM-00add8.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=exshak.exshak)
