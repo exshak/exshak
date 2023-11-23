@@ -1,0 +1,80 @@
+schema: v1
+name: Funhub
+description: funhub
+author: exshak
+with:
+  extras_css: |
+    h2 {
+      display: none !important;
+    }
+    .sponsor {
+      display: flex;
+      flex-direction: column-reverse;
+    }
+    .sponsors.goal {
+      background-color: transparent;
+      padding: 0 8px;
+    }
+    #project-bar + rect {
+      fill: #4fc3f7;
+      width: 75%;
+    }
+    #project-bar + rect + rect {
+      width: 25%;
+      x: 75%;
+    }
+    .markdown p {
+      margin: 4px 0 8px;
+    }
+    .repository {
+      margin: 0 0 20px;
+    }
+    .repository .name span:first-child {
+      color: #777777;
+    }
+    .repository .name span:last-child {
+      display: none !important;
+    }
+    .repository .description {
+      overflow: hidden;
+      white-space: nowrap;
+      width: 320px;
+    }
+    .tracklist {
+      flex-flow: wrap;
+      margin: 4px 0 20px 28px;
+      width: auto;
+    }
+    .track {
+      justify-content: normal;
+      width: 50%;
+    }
+    .track img {
+      border-radius: 0;
+    }
+    .track .name {
+      white-space: normal;
+      width: 45%;
+    }
+    .anilists > div:nth-of-type(2) {
+      display: none !important;
+    }
+    .anilist {
+      margin: 4px 0 41px 38px;
+    }
+    .anilist .medias {
+      display: flex;
+    }
+    .anilist .media {
+      margin: 0;
+      width: auto;
+    }
+    .anilist .media img {
+      border-radius: 0;
+      margin: 0 1px 0 0;
+      height: 100%;
+      width: 110px;
+    }
+    .anilist .media .about {
+      display: none !important;
+    }

@@ -1,0 +1,53 @@
+name: metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Funhub
+        uses: exshak/metrics@master
+        with:
+          filename: funhub.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_order: sponsors
+          config_octicon: yes
+          config_padding: 0
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_sponsors: yes
+          plugin_repositories: yes
+          plugin_repositories_featured: commaai/openpilot
+          plugin_music: yes
+          plugin_music_mode: recent
+          plugin_music_provider: spotify
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_anilist: yes
+          plugin_anilist_limit: 4
+          plugin_anilist_shuffle: no
+          config_presets: https://github.com/exshak/exshak/raw/main/.github/presets/funhub.yml
+      - name: Github
+        uses: exshak/metrics@master
+        with:
+          filename: github.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header
+          base_hireable: yes
+          config_octicon: yes
+          config_padding: 0
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_activity: yes
+          plugin_activity_limit: 4
+          plugin_activity_filter: pr
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, editors, os, languages-graphs
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_stock: yes
+          plugin_stock_symbol: AAPL
+          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
+          config_presets: https://github.com/exshak/exshak/raw/main/.github/presets/github.yml
