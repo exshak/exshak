@@ -1,0 +1,97 @@
+schema: v1
+name: Github
+description: github
+author: exshak
+with:
+  extras_css: |
+    h1, h2, h3 {
+      display: none !important;
+    }
+    .cakedate {
+      margin: 4px 5px 3px;
+    }
+    .cakedate + .field {
+      display: none !important;
+    }
+    .isocalendar .row {
+      margin: 23px 0;
+    }
+    .activities {
+      position: absolute;
+      top: 36%;
+    }
+    .activity {
+      display: flex;
+      margin-bottom: 2px;
+    }
+    .activity .field {
+      width: auto;
+    }
+    .activity .action,
+    .activity .title,
+    .activity .file {
+      display: none !important;
+    }
+    .activity .issue {
+      color: #777777;
+    }
+    .activity .details {
+      padding-left: 0;
+    }
+    .activity .details div:first-child {
+      display: none !important;
+    }
+    .activity .details div:last-child {
+      display: flex;
+    }
+    .activity .code {
+      margin: 1px 4px;
+    }
+    .wakatime {
+      display: flex;
+      margin-bottom: 20px;
+    }
+    .wakatime .row {
+      display: block;
+    }
+    .wakatime > div:last-child {
+      width: 100%;
+    }
+    .chart-bars {
+      margin: 0;
+    }
+    .chart-bars .entry {
+      color: #777777;
+      font-size: 14px;
+    }
+    .chart-bars .entry .name {
+      width: 20% !important;
+    }
+    .chart-bars .entry .value {
+      font-size: 10px;
+    }
+    .ct-grid {
+      stroke-width: 0;
+    }
+    .ct-label.ct-horizontal.ct-end {
+      display: none !important;
+    }
+    .stock-chart svg g {
+      display: none !important;
+    }
+    :root {
+      --color-calendar-graph-day-bg: #eeeeee;
+      --color-calendar-graph-day-L1-bg: #b3e5fc;
+      --color-calendar-graph-day-L2-bg: #4fc3f7;
+      --color-calendar-graph-day-L3-bg: #039be5;
+      --color-calendar-graph-day-L4-bg: #01579b;
+    }
+  extras_js: |
+    for (const {a, b} of [
+      {a:"#ebedf0", b:"#eeeeee"},
+      {a:"#9be9a8", b:"#b3e5fc"},
+      {a:"#40c463", b:"#4fc3f7"},
+      {a:"#30a14e", b:"#039be5"},
+      {a:"#216e39", b:"#01579b"},
+    ])
+    document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
